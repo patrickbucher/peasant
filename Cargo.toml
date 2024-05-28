@@ -1,6 +1,9 @@
 [package]
 name = "peasant"
-version = "0.1.0"
+description = "harvest message collector and granary log message store"
+license = "MIT"
+repository = "https://github.com/patrickbucher/peasant"
+version = "0.0.1"
 edition = "2021"
 
 [dependencies]
